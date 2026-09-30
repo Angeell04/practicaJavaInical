@@ -170,4 +170,5 @@ Aqui nos va a hacer una suma del total del carrito que tenemos
 
 # Cerrar pedido 
 Si le damos va a generar una factura va a comprar los productos, primero mirando si hay stock de esos productos y si no hay stock te muestra los productos que están sin stock
+
 ![Captura de pantalla 2026-09-30 180956.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20180956.png)
