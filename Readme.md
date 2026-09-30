@@ -51,39 +51,50 @@ Una vez dentro nos saldrá un menu admin con 3 apartados:
 1. Ver pedidos de todos los usuarios de la tienda online
 2. Introducir un producto para vender
 3. Quitar un producto de la tienda online
+   
 ![Captura de pantalla 2026-09-30 171730.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20171730.png)
 
 ## Ver pedidos:
 En esta sección se muestran todos los pedidos que han hecho los usuarios
+
 ![Captura de pantalla 2026-09-30 180956.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20180956.png)
 
 ## Introducir un producto
 Aquí tenemos dos secciones:
 1. Introducir un producto digital
 2. Introducir un producto físico
+
 ![Captura de pantalla 2026-09-30 171938.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20171938.png)
 
 ### Producto digital
+
 ![Captura de pantalla 2026-09-30 172628.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20172628.png)
 
 ### Producto físico
+
 ![Captura de pantalla 2026-09-30 172736.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20172736.png)
 
 ## Quitar un producto
 Aquí nos va a pedir el nombre del producto que queremos quitar. Primero los muestra y luego nos pide el nombre del producto
+
 ![Captura de pantalla 2026-09-30 173008.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20173008.png)
 
 # Registro
 En este apartado nos va a pedir el nombre, email y contraseña. Posteriormente verificará si estan en uso y si no lo está nos registramos correctamente y nos da de alta.
+
 ![Captura de pantalla 2026-09-30 173212.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20173212.png)
 
 # Invitado
 Tenemos la sección invitado que lo unico que podrá hacer es ver los productos físicos y digitales sin opción a compra ni nada solo verlos sin interactuar
+
 ![Captura de pantalla 2026-09-30 181010.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20181010.png)
 
 ## Ver productos digitales
+
 ![Captura de pantalla 2026-09-30 181104.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20181104.png)
+
 ## Ver productos físicos
+
 ![Captura de pantalla 2026-09-30 181114.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20181114.png)
 # Menú principal
 En el menú principal tenemos 4 apartados:
@@ -102,15 +113,18 @@ Tenemos otro menú aqui dentro que es:
 
 ## Ver datos personales
 Nos va a mostrar todos nuestros datos actualmente
+
 ![Captura de pantalla 2026-09-30 174350.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20174350.png)
 
 
 ## Dar de baja
 Aqui damos de baja al usuario, si volvemos al login y volvemos a iniciar sesión automaticamente se nos vuelve a dar de alta
+
 ![Captura de pantalla 2026-09-30 174423.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20174423.png)
 
 ## Ver listado de usuarios activos
 Aqui saldrán los usuarios que estén dados de alta
+
 ![Captura de pantalla 2026-09-30 174444.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20174444.png)
 
 # Gestionar productos
@@ -120,6 +134,7 @@ Aqui tenemos otro sub menú con las siguientes pautas:
 
 ## Comprar un producto
 Aquí nos saldrán los productos tanto digitales como físicos listados para comprarlos
+
 ![Captura de pantalla 2026-09-30 174522.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20174522.png)
 
 ## Busquedas de productos
@@ -129,20 +144,24 @@ Tenemos dos apartados:
 
 ### Por texto o palabras clave 
 Introducimos el texto o la palabra clave y nos saldrán los resultados de nuestra búsqueda
+
 ![Captura de pantalla 2026-09-30 174632.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20174632.png)
 
 ### Por rango de precio
 Nos pedirá un precio mínimo y máximo y buscará en ese rango
+
 ![Captura de pantalla 2026-09-30 174820.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20174820.png)
 
 # Gestión de carrito
 Aqui tenemos otro submenú con dos opciones las cuales son
 1. QUitar un producto del carrito
 2. Ver total del carrito
+
 ![Captura de pantalla 2026-09-30 175044.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20175044.png)
 
 ## Quitar producto 
 Nos va a mostrar los productos de nuestro carrito, posteriormente nos pedirá el nombre del producto que queremos quitar
+
 ![Captura de pantalla 2026-09-30 175114.png](/imagenes/Captura%20de%20pantalla%202026-09-30%20175114.png)
 
 ## Ver total del carrito
